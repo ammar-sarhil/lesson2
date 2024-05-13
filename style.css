@@ -1,0 +1,19 @@
+div {
+    border: 2px red solid;
+    width:200 ;
+    height: 100px; ;
+    color: blueviolet;
+    /* بعد العناصر عن بعضها */
+    margin: 10px 20px 10px 30px;
+    /* بعده عن المحتوى */
+    padding: 16px 10px 20px;
+}
+.main{
+    color: chartreuse;
+}
+.third{
+    color: rgb(165, 42, 42);
+}
+.itempx{
+    border:2px blue pointer;
+}
